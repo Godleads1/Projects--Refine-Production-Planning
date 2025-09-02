@@ -30,5 +30,4 @@ Better Vehicle Allocation: Look at how "Bike C" is being used and consider using
 
 Improve Allocation Rules: Review the "Expedited Rules" to make them more effective. It might be better to focus on improving the "Custom Rules" since they seem to work well.
 
-Enhance Communication: Improve the way you communicate with customers about their order status and any potential delays to boost customer satisfactio
-<img width="298" height="970" alt="image" src="https://github.com/user-attachments/assets/d9664268-6067-4d02-8cf2-26520d77afc7" />
+Enhance Communication: Improve the way you communicate with customers about their order status and any potential delays to boost customer satisfaction
